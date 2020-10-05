@@ -6,7 +6,7 @@
   SCAN_DESCRIPTION: Scannez le QR Code au-dessus avec votre application sur votre téléphone pour générer un code
 ACTIVATE: Activer
 BECOME_VIP: Devenez VIP
-COOKIE_DESCRIPTION: Nous utiisons les cookies pour améliorer votre expérience sur le site. En continuant sur ce site, vous acceptez que les cookies soient utilisés.
+COOKIE_DESCRIPTION: Nous utilisons les cookies pour améliorer votre expérience sur le site. En continuant sur ce site, vous acceptez que les cookies soient utilisés.
 CONTACT: Contactez-nous!
 COPYRIGHT: © Copyright 2020 NosWings. Tous droits reservés.
 CHANNEL: Canal
@@ -25,7 +25,7 @@ FORMS:
   PASSWORD:
     CONFIRM: Confirmer le mot de passe
     CONFIRM_NEW: Confirmer le nouveau mot de passe
-    ERROR: Le mot de passe doit être entre 5 et 26 caractères
+    ERROR: Le mot de passe doit comporter entre 5 et 26 caractères
     ERROR_MATCH: Les mots de passe doivent être identiques
     LABEL: Mot de passe
     OLD: Mot de passe actuel
@@ -33,13 +33,13 @@ FORMS:
     UPDATE: Mettre à jour le mot de passe
   REQUIRED: Obligatoire
   USERNAME:
-    ERROR: L'identifiant doit être entre 5 et 26 caractères
+    ERROR: L'identifiant doit comporter entre 5 et 26 caractères
     LABEL: Identifiant
 HOME: Accueil
 JOIN_DISCORD: Rejoignez notre Discord
 JOIN_US: Rejoignez-nous!
 LOGIN: Se connecter
-MANAGE_ACCOUNT: Gérez votre compte
+MANAGE_ACCOUNT: Gérer le compte
 NAVIGATION: Navigation
 NEWS: Nouveautés
 ONLINE: En ligne
